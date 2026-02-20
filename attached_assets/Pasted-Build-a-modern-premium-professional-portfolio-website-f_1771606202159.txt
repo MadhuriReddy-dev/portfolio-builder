@@ -1,0 +1,104 @@
+Build a modern, premium, professional portfolio website for a Computer Science student named Mandala Madhuri.
+
+Design Style:
+- Clean, minimal, modern UI
+- Dark theme with soft gradient accents (purple/blue)
+- Glassmorphism and subtle animations
+- Fully responsive (mobile + tablet + desktop)
+- Smooth scroll animations
+- Professional typography (Poppins or Inter)
+
+Hero Section:
+- Circular professional photo placeholder at the top (allow image upload)
+- Name: Mandala Madhuri
+- Title: AI/ML Enthusiast | Full Stack Developer | AWS Certified
+- Short tagline:
+  "Building intelligent systems and scalable web applications with modern technologies."
+- Add Resume Download button
+- Add Contact Me button
+- Social icons: LinkedIn, GitHub, LeetCode, HackerRank
+
+About Section:
+Create a professional summary based on:
+- B.Tech CSE student at SR University (2023–2027)
+- CGPA: 8.7/10
+- AI/ML Intern at AICTE Eduskills
+- Strong in Python, React, Flask, PostgreSQL
+- Passionate about AI, Full Stack Development and Cloud
+
+Experience Section:
+AICTE Eduskills – AI/ML Intern (Oct–Dec 2024)
+- Worked on supervised & unsupervised learning
+- Model evaluation, hyperparameter tuning
+- Computer Vision and NLP mini projects
+- AWS & Azure ML exposure
+- Deployment-ready ML models
+
+Skills Section (with animated progress bars or skill cards):
+Programming: Python, JavaScript, C++, TypeScript, SQL
+Frontend: React.js, HTML5, CSS3, Bootstrap, Tailwind CSS
+Backend: Flask, SQLAlchemy, REST APIs
+Databases: PostgreSQL, MySQL
+Tools: Git, GitHub, VS Code
+Core: DSA, OOPs, OS, DBMS, Cloud Computing
+
+Projects Section (with cards and hover effects):
+
+1. Campus Connect Hub
+Tech: React, TypeScript, Tailwind, Flask, PostgreSQL
+Description:
+- Full-stack university communication system
+- Authentication system
+- Announcement & events management
+- Scalable backend
+
+2. Hostel Management Portal
+Tech: HTML, CSS, JS, Bootstrap
+Description:
+- Role-based dashboard
+- Room booking, fee payment
+- Complaint management
+- Responsive UI
+
+Achievements Section:
+- Semester Topper Award (2024–25)
+- Outstanding Academic Excellence Award
+
+Certifications Section:
+- AWS Cloud Foundations (2025)
+- CCNA: Introduction to Networks
+- Cisco Endpoint Security
+
+Contact Section:
+- Email: madhurimandala11@gmail.com
+- Phone: +91 91771 34115
+- Location: Warangal, Telangana
+- Add a working contact form
+
+Footer:
+- Copyright
+- Social links
+
+Technical Requirements:
+- Use React.js + Tailwind CSS
+- Clean component structure
+- SEO optimized
+- Fast loading
+- Include animation library (Framer Motion or AOS)
+- Deploy-ready for Vercel
+
+Make it look like a top 1% developer portfolio.
+Make it visually impressive but professional.
+No clutter.
+Add smooth transitions.
+Add subtle glowing effects.
+Make it recruiter-friendly.
+Add:
+- Animated background particles
+- Typing animation in hero section
+- Scroll progress indicator
+- Animated counters for achievements
+- Project live demo and GitHub buttons
+- 3D tilt effect on project cards
+- Loading animation screen
+- Dark/Light mode toggle
